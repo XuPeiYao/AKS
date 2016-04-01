@@ -1,0 +1,6 @@
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\bin\Debug\AKS.exe.config
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\obj\Debug\AKS.exe
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\obj\Debug\AKS.pdb
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\bin\Debug\AKS.exe
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\bin\Debug\AKS.pdb
+C:\Users\XuPeiYao\Documents\GitHub\AKS\AKS\obj\Debug\AKS.csprojResolveAssemblyReference.cache
